@@ -6,6 +6,7 @@
 ###
 
 <p align="left">My name is Clarel Antoine and I'm a freelance Web Developer, based in Dubai.</p>
+<p>My objective is to make a positive impact on clients, co-workers, and the Internet using my skills and experience to develop compelling, attractive and user-oriented websites following the latest trends.</p>
 
 <!--
 ###
